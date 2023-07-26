@@ -1,6 +1,6 @@
 <div align="left">
   
-<img src="https://i.postimg.cc/D0TGjZ2h/2023-07-26-133005.png">
+![메인페이지 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/8b2eef65-9f05-49b7-be9e-dacff7ca5d13)
 <h1>SHOTPING</h1>
 <div align="center">
 <br /><b>SHOTPING</b><br />
@@ -10,11 +10,24 @@ One shot, Easy shopping
 <br/>
 <h2>Demo</h2>
 
-인기상품 차트 랭킹화
+<h4>인기상품 차트 랭킹화</h4>
 
-상품 인식
+![모달데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/6c8d3bc6-f47b-4262-83e8-edc7d2f21c85)
+<br />
 
-결제
+<h4>상품 선택 및 검색</h4>
+
+![리스트 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/5396e9f0-b8fe-41cc-90a1-d14fe0ab403b)
+<br />
+
+<h4>상품 인식</h4>
+
+![인식 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/445a5507-a2fe-48b5-9678-7eafc9724fdd)
+<br />
+
+<h4>결제</h4>
+
+![결제 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/df326758-f0d6-411a-8c65-bbb202bac9be)
 <br /><br />
 
 <h2>Tech Stack</h2>
