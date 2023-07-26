@@ -55,6 +55,14 @@ One shot, Easy shopping
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 <h3>DevOps</h3>
+
+![cadvisor](https://img.shields.io/badge/cadvisor-00ADD8?style=for-the-badge&logo=cadvisor&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-FF9900?style=for-the-badge&logo=amazon-rds&logoColor=white)
+
 </div>
 <br />
 <br />
