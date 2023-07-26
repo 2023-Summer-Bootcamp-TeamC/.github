@@ -1,7 +1,5 @@
-# .github
-
 <div align="left">
-
+  
 <img src="https://i.postimg.cc/D0TGjZ2h/2023-07-26-133005.png">
 <h1>SHOTPING</h1>
 <div align="center">
@@ -10,7 +8,7 @@ One shot, Easy shopping
   <br />
 </div>
 <br/>
-<h2>데모</h2>
+<h2>Demo</h2>
 
 인기상품 차트 랭킹화
 
@@ -19,7 +17,7 @@ One shot, Easy shopping
 결제
 <br /><br />
 
-<h2>기술스택</h2>
+<h2>Tech Stack</h2>
 </div>
 <br />
 
@@ -43,12 +41,17 @@ One shot, Easy shopping
 </div>
 <br />
 
-<h2>시스템 아키텍처</h2>
+<h2>System Architecture</h2>
 <img src="https://i.postimg.cc/kGCm2ryw/Untitled.png">
 <br />
 
+<h2>API</h2>
+<br />
+
+<h2>Monitering</h2>
+<br />
+
+<h2>AI</h2>
+<br />
+
 <h2>팀원</h2>
-<br />
-<br />
-<br />
-<br />
