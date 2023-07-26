@@ -81,3 +81,8 @@ One shot, Easy shopping
 <br />
 
 <h2>팀원</h2>
+
+| 나은서 | 권광재 | 김혜진 | 박태민 | 소병학 | 안나경 |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+|        |        |        |        |        |        |
+|Leader, Front-end Developer|Back-end Developer|Front-end Developer|Back-end Developer|Back-end Developer|Front-end Developer|
