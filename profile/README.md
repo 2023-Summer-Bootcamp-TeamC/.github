@@ -82,7 +82,7 @@ One shot, Easy shopping
 
 <h2>팀원</h2>
 
-| 나은서 | 권광재 | 김혜진 | 박태민 | 소병학 | 안나경 |
+| 나은서 | 김혜진 | 안나경 | 권광재 | 박태민 | 소병학 |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |        |        |        |        |        |        |
-|Leader, Front-end Developer|Back-end Developer|Front-end Developer|Back-end Developer|Back-end Developer|Front-end Developer|
+|Leader, Front-end Developer|Front-end Developer|Front-end Developer|Back-end Developer, AI|Back-end Developer, DevOps|Back-end Developer, DevOps|
