@@ -41,7 +41,7 @@ One shot, Easy shopping
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-191618?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-FFA500?style=for-the-badge&logo=yolov5&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-EF4D2D?style=for-the-badge&logo=yolov5&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-332d30?style=for-the-badge&logo=mysql&logoColor=white)
@@ -68,7 +68,7 @@ One shot, Easy shopping
 
 <h3>DevOps</h3>
 
-![cadvisor](https://img.shields.io/badge/cadvisor-00ADD8?style=for-the-badge&logo=cadvisor&logoColor=white)
+![cadvisor](https://img.shields.io/badge/cadvisor-7D7E82?style=for-the-badge&logo=cadvisor&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
