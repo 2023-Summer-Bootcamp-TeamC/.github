@@ -1,6 +1,7 @@
 <div align="left">
-  
-![메인페이지 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/8b2eef65-9f05-49b7-be9e-dacff7ca5d13)
+  <h3>상품인식을 활용한 무인 계산대 서비스</h3>
+  <img width="1501" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/6dec402e-d797-467b-9093-68223a4cfbe1">
+
 <h1>SHOTPING</h1>
 <div align="center">
 <br /><b>SHOTPING</b><br />
@@ -30,24 +31,16 @@ One shot, Easy shopping
 ![결제 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/df326758-f0d6-411a-8c65-bbb202bac9be)
 <br /><br />
 
+<h2>System Architecture</h2>
+<img width="1011" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/81322583-f00c-4e25-b982-a25871a983fb">
+
+<br />
+
 <h2>Tech Stack</h2>
 </div>
 <br />
-
 <div align="center">
-<h3>Backend</h3>
-  
-![Nods.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-191618?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-EF4D2D?style=for-the-badge&logo=yolov5&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-332d30?style=for-the-badge&logo=mysql&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white)
-
-<h3>Frontend</h3>
+<h2>Frontend</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Type Script](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
@@ -56,39 +49,52 @@ One shot, Easy shopping
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 <div>
-
+  
   ![ApexCharts](https://img.shields.io/badge/ApexCharts-007BFF?style=for-the-badge&logo=apexcharts&logoColor=white)
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
   ![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
   ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
+
+<h2>Backend</h2>
+  
+![Nods.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white)
+
 </div>
 
+<h2>AI</h2>
+
+![Flask](https://img.shields.io/badge/flask-191618?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-EF4D2D?style=for-the-badge&logo=yolov5&logoColor=white)
 
 
 
-<h3>DevOps</h3>
+<h2>DevOps</h2>
 
-![cadvisor](https://img.shields.io/badge/cadvisor-7D7E82?style=for-the-badge&logo=cadvisor&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-FF9900?style=for-the-badge&logo=amazon-rds&logoColor=white)
 
 <div>
   
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
   ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 </div>
+
+<h2>Monitering</h2>
+
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![cadvisor](https://img.shields.io/badge/cadvisor-7D7E82?style=for-the-badge&logo=cadvisor&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 </div>
 <br />
 <br />
 
-<h2>System Architecture</h2>
-<img src="https://i.postimg.cc/kGCm2ryw/Untitled.png">
-<br />
 
 <h2>API</h2>
 <br />
