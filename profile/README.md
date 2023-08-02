@@ -84,7 +84,7 @@ One shot, Easy shopping
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-<h2>Monitering</h2>
+<h2>Monitoring</h2>
 
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![cadvisor](https://img.shields.io/badge/cadvisor-7D7E82?style=for-the-badge&logo=cadvisor&logoColor=white)
