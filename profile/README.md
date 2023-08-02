@@ -11,19 +11,19 @@ One shot, Easy shopping
 <br/>
 <h2>Demo</h2>
 
-<h4>인기상품 차트 랭킹화</h4>
+<h4>인기상품 차트</h4>
 
 ![모달데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/6c8d3bc6-f47b-4262-83e8-edc7d2f21c85)
-<br />
-
-<h4>상품 선택 및 검색</h4>
-
-![리스트 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/5396e9f0-b8fe-41cc-90a1-d14fe0ab403b)
 <br />
 
 <h4>상품 인식</h4>
 
 ![인식 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/445a5507-a2fe-48b5-9678-7eafc9724fdd)
+<br />
+
+<h4>상품 리스트 </h4>
+
+![리스트 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/5396e9f0-b8fe-41cc-90a1-d14fe0ab403b)
 <br />
 
 <h4>결제</h4>
@@ -59,10 +59,12 @@ One shot, Easy shopping
   
 ![Nods.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Type Script](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 </div>
 
@@ -77,12 +79,10 @@ One shot, Easy shopping
 <h2>DevOps</h2>
 
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<div>
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-  ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-</div>
 
 <h2>Monitering</h2>
 
@@ -90,28 +90,22 @@ One shot, Easy shopping
 ![cadvisor](https://img.shields.io/badge/cadvisor-7D7E82?style=for-the-badge&logo=cadvisor&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![NODE EXPORTER](https://img.shields.io/badge/NODE_EXPORTER-009639?style=for-the-badge&logo=NODE_EXPORTER&logoColor=white)
+
+</div>
 
 </div>
 <br />
 <br />
 
-
-<h2>API</h2>
-<br />
-
 <h2>Monitoring</h2>
 <h3>cAdvisor</h3>
 
-![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/4d6132be-9ce3-4b40-b304-8ef0e882407e)
+![cadvisor](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/109125108/2d4b5db9-812d-44f1-8014-2fabb7785ced)
 
 <h3>Node Exporter</h3>
-
-![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/bc866d76-3a08-449a-b45f-cae817b6bea9)
-
-<h3>ELK Stack</h3>
-
-![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/18d83a87-5be4-49b8-a3cd-02b823755ad7)
-![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/33a3c715-e5a6-4fcb-8acd-09ce253ded6e)
+ 
+![node-exporter](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/109125108/ca967949-e878-467f-9c9f-d63295da94c8)
 
 <br />
 
@@ -120,6 +114,31 @@ One shot, Easy shopping
 <br />
 <br />
 
+<h2>How to start</h2>
+<h3>ENV</h3>
+
+    MYSQL_HOST=
+    MYSQL_USER=
+    MYSQL_PASSWORD= 
+    MYSQL_DATABASE= 
+    MYSQL_ROOT_PASSWORD=
+    DB_PORT=
+    RABBITMQ_DEFAULT_USER=
+    RABBITMQ_DEFAULT_PASS=
+    ACCESS_KEY=
+    SECRET_ACCESS_KEY=
+    KAKAO_ADMIN_KEY=
+    NODE_ENV=
+
+
+<h3>Clone Repository</h3>
+
+    $ git clone https://github.com/2023-Summer-Bootcamp-TeamC/docker.git
+    $ git submodule update --recursive --remote --init
+    $ cd shotping-frontend
+    $ npm run build
+    $ cd ..
+    $ docker-compose -f docker-compose.prod.yml up --build
 
 
 <h2>Team Members</h2>
