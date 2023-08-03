@@ -1,10 +1,12 @@
 <div align="left">
-  <h3>상품인식을 활용한 무인 계산대 서비스</h3>
+  <h2>SHOTPING 상품인식을 활용한 무인 계산대 서비스</h2>
   <img width="1501" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/6dec402e-d797-467b-9093-68223a4cfbe1">
 
-<h1>SHOTPING</h1>
-<div>한장의 사진으로 쇼핑을 끝내는 경험을 해보세요!</div>
-<div>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서버스를 사용자에게 제공합니다.</div>
+<h2>Introduce</h2>
+<h4>한장의 사진으로 쇼핑을 끝내는 경험을 해보세요!</h4>
+<h4>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서버스를 사용자에게 제공합니다.</h4>
+
+<br />
 <h2>Demo</h2>
 
 <h3>인기상품 차트</h3>
@@ -32,18 +34,17 @@
 
 
 <br /><br />
-<div align="center">
 
 <h2>System Architecture</h2>
 <img width="1011" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/81322583-f00c-4e25-b982-a25871a983fb">
 
+
 <br />
 
 <h2>Tech Stack</h2>
-</div>
-<br />
+
 <div align="center">
-<h2>Frontend</h2>
+<h3>Frontend</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Type Script](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
@@ -58,7 +59,7 @@
   ![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
   ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
 
-<h2>Backend</h2>
+<h3>Backend</h3>
   
 ![Nods.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -71,7 +72,7 @@
 
 </div>
 
-<h2>AI</h2>
+<h3>AI</h3>
 
 ![Flask](https://img.shields.io/badge/flask-191618?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -79,7 +80,7 @@
 
 
 
-<h2>DevOps</h2>
+<h3>DevOps</h3>
 
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
@@ -87,7 +88,7 @@
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-<h2>Monitoring</h2>
+<h3>Monitoring</h3>
 
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![cadvisor](https://img.shields.io/badge/cadvisor-7D7E82?style=for-the-badge&logo=cadvisor&logoColor=white)
