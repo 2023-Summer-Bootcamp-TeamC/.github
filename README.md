@@ -1,10 +1,10 @@
 <div align="left">
-  <h3>상품인식을 활용한 무인 계산대 서비스</h3>
+  <h2>상품인식을 활용한 무인 계산대 서비스</h2>
   <img width="1501" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/6dec402e-d797-467b-9093-68223a4cfbe1">
 
-<h1>SHOTPING</h1>
-<div>한장의 사진으로 쇼핑을 끝내는 경험을 해보세요!</div>
-<div>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서버스를 사용자에게 제공합니다.</div>
+<h2>SHOTPING</h2>
+<h4>한장의 사진으로 쇼핑을 끝내는 경험을 해보세요!</h4>
+<h4>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서버스를 사용자에게 제공합니다.</h4>
 <h2>Demo</h2>
 
 <h3>인기상품 차트</h3>
