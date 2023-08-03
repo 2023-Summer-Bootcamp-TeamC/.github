@@ -3,33 +3,36 @@
   <img width="1501" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/6dec402e-d797-467b-9093-68223a4cfbe1">
 
 <h1>SHOTPING</h1>
-<div align="center">
-<br /><b>SHOTPING</b><br />
-One shot, Easy shopping
-  <br />
-</div>
-<br/>
+<div>한장의 사진으로 쇼핑을 끝내는 경험을 해보세요!</div>
+<div>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서버스를 사용자에게 제공합니다.</div>
 <h2>Demo</h2>
 
-<h4>인기상품 차트</h4>
+<h3>인기상품 차트</h3>
 
-![모달데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/6c8d3bc6-f47b-4262-83e8-edc7d2f21c85)
+![인기상품](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/8c7be47e-14bc-4fb9-8e09-928dea93ff37)
+
 <br />
 
-<h4>상품 인식</h4>
+<h3>상품 인식</h3>
 
-![인식 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/445a5507-a2fe-48b5-9678-7eafc9724fdd)
+![상품 인식](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/34b43246-9e40-48c6-9368-d40b417c0b4c)
+
+
 <br />
 
-<h4>상품 리스트 </h4>
+<h3>상품 리스트 </h3>
 
-![리스트 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/5396e9f0-b8fe-41cc-90a1-d14fe0ab403b)
+![상품 리스트](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/05bbd3be-2df7-4d6c-94ca-83051bbecf3a)
+
 <br />
 
-<h4>결제</h4>
+<h3>결제</h3>
 
-![결제 데모](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/127761299/df326758-f0d6-411a-8c65-bbb202bac9be)
+![결제](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/93f7953b-fc5f-4747-9ae3-b366edde0306)
+
+
 <br /><br />
+<div align="center">
 
 <h2>System Architecture</h2>
 <img width="1011" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/81322583-f00c-4e25-b982-a25871a983fb">
