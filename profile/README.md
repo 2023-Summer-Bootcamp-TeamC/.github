@@ -2,11 +2,16 @@
   <h2>SHOTPING 상품인식을 활용한 무인 계산대 서비스</h2>
   <img width="1501" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/6dec402e-d797-467b-9093-68223a4cfbe1">
 
+<br />
+<br />
+
 <h2>Introduce</h2>
 <h4>한장의 사진으로 쇼핑을 끝내는 경험을 해보세요!</h4>
-<h4>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서버스를 사용자에게 제공합니다.</h4>
+<h4>SHOTPING은 한장의 사진 인식으로 구매한 상품을 일일이 찍지 않아도 구매할 수 있는 서비스를 사용자에게 제공합니다.</h4>
 
 <br />
+<br />
+
 <h2>Demo</h2>
 
 <h3>인기상품 차트</h3>
@@ -33,12 +38,13 @@
 ![결제](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/93f7953b-fc5f-4747-9ae3-b366edde0306)
 
 
-<br /><br />
+<br />
+<br />
 
 <h2>System Architecture</h2>
-<img width="1011" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/81322583-f00c-4e25-b982-a25871a983fb">
 
-
+![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/7106757a-d393-4298-9177-3f7f61ecb5e3)
+<br />
 <br />
 
 <h2>Tech Stack</h2>
@@ -144,6 +150,8 @@
     $ cd ..
     $ docker-compose -f docker-compose.prod.yml up --build
 
+<br />
+<br />
 
 <h2>Team Members</h2>
 
@@ -151,3 +159,5 @@
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width = "520" src ="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/94445693/a86a0d3b-e533-4935-9554-d2481f40b72e"> | <img width = "520" src ="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/94445693/0e686e58-6b55-4f14-91a7-f5faf5db3186"> | <img width = "520" src ="https://i.postimg.cc/GtXXfSbD/snow-AI.jpg"> | <img width = "520" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/3c1b4d71-3240-4c61-a34b-a5c9f5109ebf"> | <img width = "520" src="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/5386c464-4b52-4b14-812b-2cd8bcabb457"> | <img width = "520" src ="https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/94445693/5d3830f9-f762-4174-980d-89da8fec079f"> |
 |                                                    Leader, Front-end Developer                                                    |                                                      Front-end Developer                                                       |                                                    Front-end Developer                                                     |                                                    Back-end Developer, AI                                                     |                                                        Back-end Developer, DevOps                                                        |                               Back-end Developer, DevOps                                |
+
+<br />
