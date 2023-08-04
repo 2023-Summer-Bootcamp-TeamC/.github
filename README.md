@@ -12,6 +12,10 @@
 <br />
 <br />
 
+<h2>Medium</h2>
+
+[Medium url](https://medium.com/@kgy30002/shotping-unmanned-checkout-service-using-product-recognition-ai-2086e234048b)
+
 <h2>Demo</h2>
 
 <h3>인기상품 차트</h3>
@@ -44,7 +48,7 @@
 <h2>System Architecture</h2>
 <div align="center">
 
-![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/103642376/7106757a-d393-4298-9177-3f7f61ecb5e3)
+![image](https://github.com/2023-Summer-Bootcamp-TeamC/.github/assets/121513336/b20869fa-a415-4587-9dd2-40683f2ecd37)
 
 
 <br />
