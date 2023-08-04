@@ -11,6 +11,13 @@
 
 <br />
 <br />
+<h2>Medium</h2>
+
+[Medium url](https://medium.com/@kgy30002/shotping-unmanned-checkout-service-using-product-recognition-ai-2086e234048b)
+
+<br />
+<br />
+
 
 <h2>Demo</h2>
 
